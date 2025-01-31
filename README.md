@@ -16,6 +16,7 @@
 * Add the downloaded file in `Flask Deployed App` folder.
 * Run the Flask app using below command `python3 app.py`
 * You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
+* Download the **plant disease detection model** from [Dropbox](https://www.dropbox.com/scl/fi/of4ie7awl9rh2n79kvzwa/plant_disease_model_1_latest.pt?rlkey=z1gr4udha41gtsilusfpwq4f2&st=caegr9zo&dl=0)
 
 ## ⭐Contribution ( Open Source )
 * This Project is now open source.
